@@ -11,21 +11,6 @@ This project contains:
 
 ---
 
-## 📂 Project Structure
-
-adventofcode_day1/
-├── src/
-│ ├── main.rs # (unused — placeholder)
-│ └── bin/
-│   ├── day1_part1.rs
-│   └── day1_part2.rs
-├── input.txt
-├── Cargo.toml
-└── README.md
-
-
----
-
 ## ▶️ Running the Solutions
 
 ### **Part 1**
